@@ -2,3 +2,4 @@
 .DS_Store
 Test.csv
 Train.csv
+datasets/*
