@@ -25,7 +25,7 @@ Flags
 """
 
 # Set to True to use the Train.csv file and output predictions CSV
-useTestCSV = True
+useTestCSV = False
 
 # File paths
 testPath = 'Test.csv'
